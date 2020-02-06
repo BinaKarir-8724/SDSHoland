@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project PySDS -->
+<!-- Saved: 2018-12-31, 14:59:47 -->
+<!-- Copyright (C) 2018 ,  -->
+<Project version="5.1">
+  <Language></Language>
+  <Hash>1202c0ad41aecbbda421d4b866ec83d7ad45bd84</Hash>
+  <ProgLanguage mixed="1">Python3</ProgLanguage>
+  <ProjectType>Other</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>/home/binakarir/PySDS/run.py</Source>
+    <Source>Activ.py</Source>
+    <Source>Aplc/Activator.py</Source>
+    <Source>Aplc/ActivatorDialogPasswd.py</Source>
+    <Source>Aplc/ActivatorIntiWindow.py</Source>
+    <Source>Aplc/ActivatorKonfigurasi.py</Source>
+    <Source>Aplc/__init__.py</Source>
+    <Source>Aplc/aktifasion.py</Source>
+    <Source>Aplc/aktifread.py</Source>
+    <Source>Aplc/ckh.py</Source>
+    <Source>Aplc/cli.py</Source>
+    <Source>Aplc/date.py</Source>
+    <Source>Aplc/main.py</Source>
+    <Source>Aplc/tk.py</Source>
+    <Source>AppsSDS/SDSHollandOccupationFinder.py</Source>
+    <Source>AppsSDS/SDSHollandPage2.py</Source>
+    <Source>AppsSDS/SDSHollandPage2hide.py</Source>
+    <Source>AppsSDS/SDSHollandWindowUtama.py</Source>
+    <Source>AppsSDS/TempListbox.py</Source>
+    <Source>AppsSDS/__init__.py</Source>
+    <Source>AppsSDS/controller/__init__.py</Source>
+    <Source>AppsSDS/db/__init__.py</Source>
+    <Source>AppsSDS/db/db.py</Source>
+    <Source>AppsSDS/main.py</Source>
+    <Source>AppsSDS/messagebox.py</Source>
+    <Source>AppsSDS/sds.py</Source>
+    <Source>AppsSDS/style.py</Source>
+    <Source>AppsSDS/temp.py</Source>
+    <Source>AppsSDS/tes.py</Source>
+    <Source>__init__.py</Source>
+    <Source>oscheck.py</Source>
+    <Source>permutation.py</Source>
+    <Source>run.py</Source>
+    <Source>tes.py</Source>
+    <Source>work_excel.py</Source>
+  </Sources>
+  <Others>
+    <Other>build/run/warn-run.txt</Other>
+  </Others>
+  <MainScript>/home/binakarir/PySDS/run.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.js" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py2" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw2" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.rb" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>

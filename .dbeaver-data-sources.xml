@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_jdbc-169c3cac542-341bdd0b9e3130a9" provider="generic" driver="sqlite_jdbc" name="SQLite - hexacodb" save-password="true" read-only="false">
+		<connection server="" database="/home/cireng/Projects/pyhexaco/hexaco/models/hexacodb" url="jdbc:sqlite:/home/cireng/Projects/pyhexaco/hexaco/models/hexacodb" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>

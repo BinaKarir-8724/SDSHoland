@@ -1,0 +1,2 @@
+SELECT idpeserta
+FROM datapeserta;
